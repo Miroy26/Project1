@@ -1,0 +1,15 @@
+my table{
+    padding: 2px 5px;
+    border:solid 1px black;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font:normal 13px Arial, sans-serif;
+    }
+    my table{
+        background-color: white;
+        border: solid 1px black;
+        color: #3366B868;
+        padding: 10px;
+        text-align:left;
+        text-shadow: 1px 1px 1px #fff;
+    }

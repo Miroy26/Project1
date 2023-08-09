@@ -1,0 +1,14 @@
+body{
+    font-family:"Poppins",sans-serif;
+}
+
+.container{
+    padding: 40px;
+    border: 1px solid black;
+    background-color:aquamarine'
+}
+h1{
+    margin:auto;
+    color:black;
+    margin-bottom: 30px;
+}
